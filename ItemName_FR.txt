@@ -1,0 +1,11 @@
+ItemName_FR = {
+	ItemName_Base.CHMap = "Carte de Cedar Hill",
+	ItemName_Base.DeDemonibusetMaleficiis = "De Démonibus et Maléficiis",
+	ItemName_Base.DescriptioInferni = "Descriptio Inferni",
+	ItemName_Base.InscriptioPacti = "Inscriptio Pacti",
+	ItemName_Base.IntoTheShadows = "Extrait d'un journal: Partie 1",
+	ItemName_Base.SanctumArcanorum = "Sanctum  Arcanorum",
+	ItemName_Base.TheChurchSecrets = "Extrait d'un journal: Partie 3",
+	ItemName_Base.TheKeepersDeception = "Extrait d'un journal: Partie 4",
+	ItemName_Base.TheObsession = "Extrait d'un journal: Partie 2",
+}
